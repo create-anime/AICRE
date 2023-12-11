@@ -1,0 +1,48 @@
+レポート作成日 : 
+	2023/12/11	15:43:59
+
+プロジェクト名 : test.aep
+
+収集されたソースファイル先 : 
+	E:\Projects\01_AICRE\03_Check\01_Chara_Look\231211_Ch0001\Look＿Comp収集
+
+収集されたソースファイル : すべて
+
+収集されたコンポジション :  
+	Depth
+	プリコンポジション 1
+	
+収集されたファイルの数 :  6
+
+収集されたファイルのサイズ :  8.2 MB
+
+収集されたソースファイル : 
+	C:\Users\creat\Downloads\cfb8d6ece657707b6c20e5fafb661df3.jpg
+	1 個のファイルと 0 個の予備ファイルを使用した E:\Projects\01_AICRE\04_fabric\04_3D_Renda\Blender\c002\Depth のシーケンス「Depth[0000-0000].png」
+	1 個のファイルと 0 個の予備ファイルを使用した E:\Projects\01_AICRE\04_fabric\04_3D_Renda\Blender\c002\Line のシーケンス「Line[0000-0000].png」
+	1 個のファイルと 0 個の予備ファイルを使用した E:\Projects\01_AICRE\04_fabric\04_3D_Renda\Blender\c002\Nomal のシーケンス「Nomal[0000-0000].png」
+	1 個のファイルと 0 個の予備ファイルを使用した E:\Projects\01_AICRE\04_fabric\04_3D_Renda\Blender\c002\RGB のシーケンス「RGB[0000-0000].png」
+	1 個のファイルと 0 個の予備ファイルを使用した E:\Projects\01_AICRE\04_fabric\04_3D_Renda\Blender\c002\RGB_Mask のシーケンス「RGB_Mask[0000-0000].png」
+	
+レンダリングプラグイン:
+	クラシック3D
+	
+使用されたエフェクトの数 :  8
+
+エフェクト :  Normality
+	
+エフェクト :  グラデーション
+	
+エフェクト :  グロー
+	
+エフェクト :  ブラー (ガウス)
+	
+エフェクト :  ブラー(カメラレンズ)
+	
+エフェクト :  リニアカラーキー
+	
+エフェクト :  レベル補正
+	
+エフェクト :  塗り
+	
+
